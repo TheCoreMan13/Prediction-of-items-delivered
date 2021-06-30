@@ -70,7 +70,7 @@ soupsieve==2.1
 statsmodels==0.12.1
 tensorboard==2.4.1
 tensorboard-plugin-wit==1.8.0
-tensorflow==2.4.1
+tensorflow==2.4.2
 tensorflow-datasets==4.2.0
 tensorflow-estimator==2.4.0
 tensorflow-metadata==0.27.0
